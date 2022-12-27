@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LucasCodes1124
-- 👀 I’m a coder, gfx designer, designer, founder and  a gamer
-- 🌱 I’m currently learning  more gfx stuff
+- 👋 Hi, I’m RudyShoes
+- 👀 I’m a coder, gfx designer, designer, founder and  a gamer also a content creator
+- 🌱 Just tell me what kind of things should i do?
 
 
 <!---
